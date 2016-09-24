@@ -8,9 +8,20 @@ asf
 asd
 f
 mmmmmmmmmmmmmmmmvvvvvvvvvvvvvvvvvvv
+<<<<<<< HEAD
 cdvsd
 f
 sdf
 sdf
 sdg
 sdg
+=======
+sadfcas
+cf
+asdfas
+d
+asdda
+sdas
+d
+asd
+>>>>>>> yoyo
