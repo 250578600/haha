@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 shdcgsakjhcds
 sdvfasz
 xvca
@@ -11,3 +12,25 @@ vs
 axdv
 asdgv
 sdvfaszg
+=======
+mmmmmmmmmmmmmmmmmmmmmmmmmds
+vfds
+f
+sd
+gfsd
+gfsdsdaf
+
+...................
+asf
+asd
+f
+mmmmmmmmmmmmmmmmvvvvvvvvvvvvvvvvvvv
+sadfcas
+cf
+asdfas
+d
+asdda
+sdas
+d
+asd
+>>>>>>> yoyo
